@@ -296,7 +296,7 @@ ul.contat_infoma li a {
 }
 
 ul.contat_infoma li a:hover {
-     color: #fe9901;
+     color: #FF5816;
 }
 
 ul.social_icon {
@@ -326,7 +326,7 @@ ul.social_icon_top li a {
 }
 
 ul.social_icon_top li a:hover {
-     color: #fe9901;
+     color: #FF5816;
 }
 
 .header_bottom {
@@ -366,7 +366,7 @@ ul.social_icon_top li a:hover {
 
 .navigation.navbar-dark .navbar-nav .nav-link:focus,
 .navigation.navbar-dark .navbar-nav .nav-link:hover {
-     background: #fe9901;
+     background: #FF5816;
      color: #fff;
      border-radius: 6px;
 }
@@ -375,13 +375,22 @@ ul.social_icon_top li a:hover {
 .navigation.navbar-dark .navbar-nav .nav-link.active,
 .navigation.navbar-dark .navbar-nav .nav-link.show,
 .navigation.navbar-dark .navbar-nav .show>.nav-link {
-     background: #fe9901;
+     background: #FF5816;
      color: #fff;
      border-radius: 6px;
 }
 
 .navbar-expand-md .navbar-nav {
      padding-right: 10px;
+}
+
+
+
+.logo{
+     margin-top: -5%;
+
+ 
+
 }
 
 ul.search {
@@ -443,7 +452,7 @@ ul.search li a:hover {
      text-transform: uppercase;
      font-weight: normal;
      max-width: 278px;
-     background: #fc9701;
+     background: #FF5816;
 }
 
 .build_box .conatct_btn:hover {
@@ -466,7 +475,7 @@ ul.search li a:hover {
 #myCarousel .carousel-control-next:hover,
 #myCarousel .carousel-control-prev:focus,
 #myCarousel .carousel-control-next:focus {
-     background: #fd9801;
+     background: #FF5816;
      color: #fff;
 }
 
@@ -530,7 +539,7 @@ ul.search li a:hover {
 }
 
 .read_more:hover {
-     background: #f4a111;
+     background: #FF5816;
      color: #fff;
      transition: ease-in all 0.5s;
 }
@@ -562,7 +571,7 @@ ul.search li a:hover {
 }
 
 #text_hover:hover.const {
-     background-color: #f89501;
+     background-color: #FF5816;
      transition: ease-in all 0.5s;
      cursor: pointer;
 }
@@ -711,7 +720,7 @@ ul.search li a:hover {
 #proj .carousel-control-next:hover,
 #proj .carousel-control-prev:focus,
 #proj .carousel-control-next:focus {
-     background: #fe9901;
+     background: #FF5816;
      color: #fff;
 }
 
@@ -733,8 +742,8 @@ ul.search li a:hover {
 
 /** choose section **/
 
-.choose {
-     background: url(../images/choose_bg.jpg);
+.imagem-meio {
+     background: url(https://cdn.discordapp.com/attachments/1015259507787571202/1047927985371623454/Untitled_1.jpg);
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
@@ -742,15 +751,15 @@ ul.search li a:hover {
      margin-top: 90px;
 }
 
-.choose .titlepage {
+.imagem-meio .titlepage {
      text-align: left;
 }
 
-.choose .titlepage h2 {
+.imagem-meio .titlepage h2 {
      padding-bottom: 30px;
 }
 
-.choose .titlepage p {
+.imagem-meio .titlepage p {
      color: #141414;
      font-weight: 400;
      font-family: 'Raleway', sans-serif;
@@ -770,7 +779,7 @@ ul.search li a:hover {
 }
 
 #awa_ho:hover.award_icon i {
-     background-color: #fe9901;
+     background-color: #FF5816;
      transition: ease-in all 0.5s;
 }
 
@@ -938,7 +947,7 @@ ul.social_icon_staff li a:hover {
 }
 
 .main_form .send_btn:hover {
-     background-color: #fe9901;
+     background-color: #FF5816;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -1237,7 +1246,7 @@ ul.insta li {
 }
 
 .back_re {
-     background-color: #c97a05;
+     background-color: #FF5816;
 }
 
 .back_re .title {
@@ -1309,32 +1318,4 @@ ul.insta li {
           ;
      }
      /* Standard syntax */
-     @keyframes myfirst {
-          0% {
-               left: 0px;
-               top: 0;
-          }
-          20% {
-               left: 10%;
-               top: 0;
-          }
-          40% {
-               left: 20%;
-               top: 0;
-          }
-          60% {
-               left: 30%;
-               top: 0;
-          }
-          80% {
-               left: 40%;
-               top: 0;
-          }
-          100% {
-               left: 50%;
-               top: 0;
-               transform: rotateY(180deg)
-          }
-     }
-
-     /* end truck*/
+}
