@@ -1319,3 +1319,9 @@ ul.insta li {
      }
      /* Standard syntax */
 }
+.mapa-tamanho{
+     width: 1150px;
+     height: 450px;
+     padding: 0;
+     margin: 0;
+}
