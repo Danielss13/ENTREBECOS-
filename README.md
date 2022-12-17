@@ -58,15 +58,14 @@
 <h3 align="center">:mechanical_arm: Nossa equipe</h3>
 <br>
 <div align="center">
-<a href="https://www.linkedin.com/in/larissa-pazevedo/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049899885694046238/Daniel_imagem.png" width="150px">FrontEnd</a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7009324835575083008/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049899885694046238/Daniel_imagem.png" width="150px"></a>
 <a href="https://www.linkedin.com/in/joaosconrado/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049900669399728148/Gabriel_imagem.png" width="150px"></a>
-<a href="https://www.linkedin.com/in/eduolv/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049901034367107082/Jhonatha_imagem_1.png" width="150px"></a>
-<a href="https://www.linkedin.com/in/mayara-rodrigues-95389a1b3/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049901491395252324/Matias_imagem.png" width="150px"></a>
+<a href="https://www.linkedin.com/in/jhonatha-daniel-a10640207"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049901034367107082/Jhonatha_imagem_1.png" width="150px"></a>
+<a href="https://www.linkedin.com/in/matias-alves-110940236"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049901491395252324/Matias_imagem.png" width="150px"></a>
 <br>
-<a href="https://www.linkedin.com/in/andrepalhares011/"><img src="imagens/Component 22.png" width="200px"></a>
-<a href="https://www.linkedin.com/in/luana-andrade-/"><img src="imagens/Component 21.png" width="200px"></a>
-<a href="https://www.linkedin.com/in/lararufino/"><img src="imagens/Component 20.png" width="200px"></a>
-<a href="https://www.linkedin.com/in/nicolly-gabriele/"><img src="imagens/Component 19.png" width="200px"></a>
+<a href="https://www.linkedin.com/in/weslei-silva-7b8460250/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049902028740116490/Weslei_imagem.png" width="150px"></a>
+<a href="https://www.linkedin.com/in/luana-andrade-/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049902415417192519/Lucas_imagem.png" width="150px"></a>
+<a href="https://www.linkedin.com/in/enzo-serikawa-3270541a0/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049902754996428920/Enzo_imagem.png" width="150px"></a>
 </div>
 
 ##
