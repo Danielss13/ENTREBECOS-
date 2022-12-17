@@ -51,7 +51,7 @@
 
 <h3 align="center">:arrow_double_up: Sobre nós</h3>
 <br>
-<div align="center"><p>O empreendedorismo periférico é um dos braços do empreendedorismo, sendo um dos principais responsáveis por girar a economia brasileira, afinal, as favelas brasileiras movimentam por ano, aproximadamente R$ 120 bilhões, então a Inovalem surge como uma plataforma focada em incentivar esses empreendedores e empreendedoras a buscar o melhor caminho para gerirem e impulsionarem seus negócios.</p></div>
+<div align="center"><p>.</p></div>
 
 ##
 
