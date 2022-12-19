@@ -36,7 +36,7 @@
   
 <h4>:small_orange_diamond: Back-end<h4>
   <img src="https://icongr.am/devicon/java-original.svg?size=100&color=currentColor" width="80px">
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=100&color=currentColor" width="80px">
+  <img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" width="80px">
   
 <h4>:small_orange_diamond: Banco de dados<h4>
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=100&color=currentColor" width="80px">
@@ -45,13 +45,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="80px">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="80px">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="80px">
+    <img src="https://imagepng.org/wp-content/uploads/2017/08/whatsapp-icone-1.png" width="80px">
+    <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png" width="80px">
  </div>
 
 ##
 
 <h3 align="center">:arrow_double_up: Sobre nós</h3>
 <br>
-<div align="center"><p>.</p></div>
+<div align="center"><p>Nossa plataforma surgiu através da experiência de vida dos membros do grupo e também de pesquisas fundamentadas em campo. Nossa proposta aqui é mostrar ao jovem que existem várias opções e caminhos que ele pode seguir, acreditando que a educação é peça chave pra mudança de vida dos jovens na quebrada.</p></div>
 
 ##
 
@@ -59,12 +61,12 @@
 <br>
 <div align="center">
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7009324835575083008/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049899885694046238/Daniel_imagem.png" width="150px"></a>
-<a href="https://www.linkedin.com/in/joaosconrado/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049900669399728148/Gabriel_imagem.png" width="150px"></a>
+<a href="https://www.linkedin.com/in/gabriel-silva-pacheco"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049900669399728148/Gabriel_imagem.png" width="150px"></a>
 <a href="https://www.linkedin.com/in/jhonatha-daniel-a10640207"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049901034367107082/Jhonatha_imagem_1.png" width="150px"></a>
 <a href="https://www.linkedin.com/in/matias-alves-110940236"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049901491395252324/Matias_imagem.png" width="150px"></a>
 <br>
 <a href="https://www.linkedin.com/in/weslei-silva-7b8460250/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049902028740116490/Weslei_imagem.png" width="150px"></a>
-<a href="https://www.linkedin.com/in/luana-andrade-/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049902415417192519/Lucas_imagem.png" width="150px"></a>
+<a href="lucas"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049902415417192519/Lucas_imagem.png" width="150px"></a>
 <a href="https://www.linkedin.com/in/enzo-serikawa-3270541a0/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049902754996428920/Enzo_imagem.png" width="150px"></a>
 </div>
 
@@ -73,6 +75,6 @@
 <h3 align="center">:writing_hand:	Fale conosco</h3>
 <br>
 <div align="center">
-<a href="https://linktr.ee/inovalem"><img src="imagens/Linktree.svg" width="80px"></a>
+<a href="https://linktr.ee/entrebecos"><img src="https://leadsdigital.com.br/images/icons/linktree_512px.png" width="80px"></a>
 </div>
 
