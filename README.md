@@ -5,7 +5,7 @@
 </div>
 <br>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=FF6F29&center=true&vCenter=true&lines=EntreBecos+a+Diamantes.">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=FF6F29&center=true&vCenter=true&lines=EntreBecos+há+Diamantes.">
 <!-- https://readme-typing-svg.herokuapp.com?font=Poppins&color=2C67F2&center=true&vCenter=true&lines=-+Inove+conosco+e+v%C3%A1+al%C3%A9m.+- -->
 </div>
 <br>
